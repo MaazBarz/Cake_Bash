@@ -1,5 +1,5 @@
 
-# Submission for IGDA eJam 2020 _ CoreGames #
+#Submission for IGDA eJam 2020 _ CoreGames#
 
 The theme of the game jam was Celebration, party.
 
