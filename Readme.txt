@@ -1,5 +1,5 @@
 
-# Submission for IGDA eJam 2020 _ CoreGames #
+#Submission for IGDA eJam 2020 _ CoreGames#
 
 The theme of the game jam was Celebration, party.
 
@@ -15,6 +15,6 @@ Programmer/Director: MaazBarz "Muhammad Maaz"
 Producer:  Monster Sandvich" Abdullah Abdelwahab"
 Level Design : ChessireTheCat "Randal Murray"
 Sound Design:  cauro99 "Casey Urso"
-Game Art: Becca "Rebecca Pilotte"\
+Game Art: Becca "Rebecca Pilotte"
 
 - - - -
