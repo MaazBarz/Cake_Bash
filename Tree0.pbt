@@ -802,7 +802,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Text {
-    Text: "Pass out.  Use Fto Pick up cake "
+    Text: "Pass out.  Use F to Pick up cake "
     Color {
       R: 0.0364583321
       G: 0.0351458304
