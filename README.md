@@ -21,6 +21,10 @@ This Game is developed entirely using the Core engine by Manticore Games.
 
 - - - -
 
-Programmer/Director: MaazBarz "Muhammad Maaz"  Producer:  Monster Sandvich" Abdullah Abdelwahab"  Level Design : ChessireTheCat "Randal Murray"  Sound Design:  cauro99 "Casey Urso"  Game Art: Becca "Rebecca Pilotte"
+Programmer/Director: MaazBarz "Muhammad Maaz"  
+Producer:  Monster Sandvich" Abdullah Abdelwahab"  
+Level Design : ChessireTheCat "Randal Murray"  
+Sound Design:  cauro99 "Casey Urso"  
+Game Art: Becca "Rebecca Pilotte"
 
 - - - -
