@@ -1,0 +1,63 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "98289d1c09e24df48fc07202c5ab2b12"
+  OwnerAccountId: "2dd74f82666d4b3f8f91414dbd551c1f"
+  OwnerName: "Drogan"
+  Version: "1.2.0"
+}
+AssetIdsOriginalToNew {
+  key: 3407322487076454168
+  value: 10616939859905152825
+}
+AssetIdsOriginalToNew {
+  key: 3812994423717588034
+  value: 10480114988751667328
+}
+AssetIdsOriginalToNew {
+  key: 4007340439121406886
+  value: 14382828937171355806
+}
+AssetIdsOriginalToNew {
+  key: 4613699399475357398
+  value: 15335034753893135261
+}
+AssetIdsOriginalToNew {
+  key: 5316361281112953593
+  value: 3351476923502599825
+}
+AssetIdsOriginalToNew {
+  key: 6837150206459814451
+  value: 16587965234312983416
+}
+AssetIdsOriginalToNew {
+  key: 6881347664700913289
+  value: 8609175908402732698
+}
+AssetIdsOriginalToNew {
+  key: 8543812279538520777
+  value: 8562848176845568280
+}
+AssetIdsOriginalToNew {
+  key: 8649579752949734768
+  value: 9270009889097538232
+}
+AssetIdsOriginalToNew {
+  key: 8908140617817766709
+  value: 1909582756329541643
+}
+AssetIdsOriginalToNew {
+  key: 10981490712272941658
+  value: 18081500213434866394
+}
+AssetIdsOriginalToNew {
+  key: 11085237894958197411
+  value: 16852778353811811149
+}
+AssetIdsOriginalToNew {
+  key: 14176681741052406028
+  value: 14452700365250301398
+}
+AssetIdsOriginalToNew {
+  key: 17165044645059497277
+  value: 1740182276073777666
+}
